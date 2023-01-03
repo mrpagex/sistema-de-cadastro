@@ -4,6 +4,6 @@
 
 Para rodar este projeto, por favor digite:
 
-'''
+```hcl
 npm install react
-'''
+```
